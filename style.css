@@ -1,0 +1,17 @@
+
+h1{
+    color:whitesmoke;
+    font-family:'Times New Roman', Times, serif;
+    text-align: center;
+    background-color: cornflowerblue;
+    padding:50px;
+    margin: 0%;
+    border: 3px dotted white;
+}
+
+p{
+    color:cornflowerblue;
+    text-align: center;
+    padding:10px;
+
+}
